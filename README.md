@@ -1,1 +1,3 @@
 ### Linuxbek 
+
+[MIT LIcense](LICENSE)
